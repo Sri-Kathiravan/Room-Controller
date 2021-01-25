@@ -6,7 +6,7 @@ Please find an APK file in *example/apk* directory to install and verify. I've a
 
 ### Example
 
-![](screen_flow.gif)
+![](screen_flow.mp4)
 
 ### Note
 
