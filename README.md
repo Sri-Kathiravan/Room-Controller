@@ -2,16 +2,16 @@
 
 A new Flutter application.
 
-Please find an APK file in *example/apk* directory to install and verify. I've attached my screenshots and screen recordings in *example/screenshot* directory.
+Please find an APK file in *example/apk* directory to install and verify. I've attached my screenshots and screen recordings in *example/screenshots* directory.
 
 ### Example
-- [App flow: Screen recording](/example/screenshot/video.mp4)
+- [App flow: Screen recording](/example/screenshots/video.mp4)
 
 ### Note
 
 I've spent around 4-5  hours to complete this and I've not given more importance to animations and form validation. Just attempted to develop best possible UI (Given screenshot) and operations in last screen.
 
-Please find an screen recordings in *example/screenshot* directory.
+Please find an screen recordings in *example/screenshots* directory.
 
 ## Getting Started
 
