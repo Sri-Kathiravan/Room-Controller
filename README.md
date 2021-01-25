@@ -5,8 +5,7 @@ A new Flutter application.
 Please find an APK file in *example/apk* directory to install and verify. I've attached my screenshots and screen recordings in *example/screenshot* directory.
 
 ### Example
-
-![](screen_flow.mp4)
+- [App flow: Screen recording](/example/screenshot/video.mp4)
 
 ### Note
 
